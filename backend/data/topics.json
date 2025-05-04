@@ -1,0 +1,192 @@
+[
+    {
+      "topic_id": 112098,
+      "topic_title": "title01",
+      "topic_content": "title01_content",
+      "topic_created_at": "2024-06-18 16:45:10",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 23409,
+      "topic_posted_by_user_id": 80299
+    },
+    {
+      "topic_id": 100125,
+      "topic_title": "title04",
+      "topic_content": "title04_content",
+      "topic_created_at": "2024-05-12 13:08:24",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 75861,
+      "topic_posted_by_user_id": 89721
+    },
+    {
+      "topic_id": 195635,
+      "topic_title": "title06",
+      "topic_content": "title06_content",
+      "topic_created_at": "2024-12-02 21:03:14",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 198178,
+      "topic_title": "title13",
+      "topic_content": "title13_content",
+      "topic_created_at": "2025-01-25 14:17:41",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 15697,
+      "topic_posted_by_user_id": 79075
+    },
+    {
+      "topic_id": 122037,
+      "topic_title": "title16",
+      "topic_content": "title16_content",
+      "topic_created_at": "2024-06-25 01:01:14",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 22376,
+      "topic_posted_by_user_id": 99977
+    },
+    {
+      "topic_id": 122020,
+      "topic_title": "title02",
+      "topic_content": "title02_content",
+      "topic_created_at": "2024-06-29 10:08:45",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 23409,
+      "topic_posted_by_user_id": 80299
+    },
+    {
+      "topic_id": 101123,
+      "topic_title": "title05",
+      "topic_content": "title05_content",
+      "topic_created_at": "2024-05-24 22:15:38",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 75861,
+      "topic_posted_by_user_id": 89721
+    },
+    {
+      "topic_id": 202190,
+      "topic_title": "title14",
+      "topic_content": "title14_content",
+      "topic_created_at": "2025-04-15 16:26:12",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 15697,
+      "topic_posted_by_user_id": 79075
+    },
+    {
+      "topic_id": 140258,
+      "topic_title": "title17",
+      "topic_content": "title17_content",
+      "topic_created_at": "2024-07-20 11:41:13",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 22376,
+      "topic_posted_by_user_id": 99977
+    },
+    {
+      "topic_id": 140314,
+      "topic_title": "title19",
+      "topic_content": "title19_content",
+      "topic_created_at": "2024-08-12 22:14:36",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 22376,
+      "topic_posted_by_user_id": 99977
+    },
+    {
+      "topic_id": 198104,
+      "topic_title": "title07",
+      "topic_content": "title07_content",
+      "topic_created_at": "2025-01-22 08:01:25",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 140241,
+      "topic_title": "title03",
+      "topic_content": "title03_content",
+      "topic_created_at": "2024-07-17 12:28:13",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 23409,
+      "topic_posted_by_user_id": 80299
+    },
+    {
+      "topic_id": 202013,
+      "topic_title": "title15",
+      "topic_content": "title15_content",
+      "topic_created_at": "2025-05-02 12:01:14",
+      "topic_deleted_at": "NA",
+      "topic_state": "unpublished",
+      "course_id": 15697,
+      "topic_posted_by_user_id": 79075
+    },
+    {
+      "topic_id": 202145,
+      "topic_title": "title08",
+      "topic_content": "title08_content",
+      "topic_created_at": "2025-03-16 09:35:09",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 202154,
+      "topic_title": "title09",
+      "topic_content": "title09_content",
+      "topic_created_at": "2025-03-18 23:04:39",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 202156,
+      "topic_title": "title10",
+      "topic_content": "title10_content",
+      "topic_created_at": "2025-03-18 23:07:01",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 202161,
+      "topic_title": "title11",
+      "topic_content": "title11_content",
+      "topic_created_at": "2025-03-18 23:12:25",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 202162,
+      "topic_title": "title12",
+      "topic_content": "title12_content",
+      "topic_created_at": "2025-03-18 23:14:46",
+      "topic_deleted_at": "2025-04-02 02:36:38",
+      "topic_state": "deleted",
+      "course_id": 34290,
+      "topic_posted_by_user_id": 78926
+    },
+    {
+      "topic_id": 140279,
+      "topic_title": "title18",
+      "topic_content": "title18_content",
+      "topic_created_at": "2024-07-26 21:05:23",
+      "topic_deleted_at": "NA",
+      "topic_state": "active",
+      "course_id": 22376,
+      "topic_posted_by_user_id": 99977
+    }
+   ]

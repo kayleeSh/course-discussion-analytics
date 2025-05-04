@@ -1,0 +1,37 @@
+[
+    {
+      "course_id": 23409,
+      "semester": "2024/07",
+      "course_code": "TEK102",
+      "course_name": "Web development",
+      "course_created_at": "45461.64103009259"
+    },
+    {
+      "course_id": 75861,
+      "semester": "2024/07",
+      "course_code": "SRF305",
+      "course_name": "Advanced mechanics",
+      "course_created_at": "45423.87877314815"
+    },
+    {
+      "course_id": 34290,
+      "semester": "2025/01",
+      "course_code": "IHU224",
+      "course_name": "Business analytics",
+      "course_created_at": "45628.86487268518"
+    },
+    {
+      "course_id": 15697,
+      "semester": "2025/01",
+      "course_code": "LOH116",
+      "course_name": "Social work",
+      "course_created_at": "45662.92322916666"
+    },
+    {
+      "course_id": 22376,
+      "semester": "2024/07",
+      "course_code": "YDF451",
+      "course_name": "Financial Technology",
+      "course_created_at": "45468.61605324074"
+    }
+   ]
