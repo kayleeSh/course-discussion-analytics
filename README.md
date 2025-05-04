@@ -72,8 +72,17 @@ npm run dev
 
 
 🖼️ Screenshots
+<img width="1511" alt="Screenshot_Login" src="https://github.com/user-attachments/assets/fea882ab-237c-4cee-80dc-54466a9b9b53" />
+<img width="1510" alt="Screenshot_Instructor_Dashboard" src="https://github.com/user-attachments/assets/e5917190-9457-4f38-aa91-85c4a9ab477a" />
+<img width="757" alt="Screenshot_Instructor_EntriesTable" src="https://github.com/user-attachments/assets/f51b9fc7-7bed-43be-ba79-9d270a988d2b" />
+<img width="1511" alt="Screenshot_Admin_EntriesTable" src="https://github.com/user-attachments/assets/99c31406-9673-429d-a913-0327c4895591" />
+<img width="1511" alt="Screenshot_Admin_TopicsTable" src="https://github.com/user-attachments/assets/117f6cb5-fd7d-4fe3-9c44-bc930745ad28" />
 
-📹 Video Demo
+
+
+### 📹 Video Demo
+YouTube Video Demo:
+https://youtu.be/GQckGDsQ6O8
 
 
 🧱 Tech Stack
